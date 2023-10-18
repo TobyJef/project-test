@@ -42,18 +42,18 @@
   <body>
     <!-- Navbar -->
     <nav class="navbar navbar-light bg-light navbar-expand-sm">
-      <a href="/" class="navbar-brand">The Pizza Project</a>
-      <ul class="navbar-nav mr-auto">
-        <li class="active nav-item mr-2">
-          <a class="nav-link" href="/">Home</a>
-        </li>
-        <li class="active nav-item mr-2">
-          <a class="nav-link" href="/">Menu</a>
-        </li>
-        <li class="active nav-item mr-2">
-          <a class="nav-link" href="/">Bookings</a>
-        </li>
-      </ul>
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">The Pizza Project</a>
+        <div class="navbar-nav">
+            <a class="nav-link active" aria-current="page" href="/">Home</a>
+        </div>
+        <div class="navbar-nav">
+            <a class="nav-link" href="/">Menu</a>
+        </div>
+        <div class="navbar-nav">
+            <a class="nav-link" href="/">Bookings</a>
+        </div>
+        </div>
     </nav>
     <!-- /navbar -->
     <article class="containter">
@@ -63,10 +63,8 @@
       </section>
       <!-- Hero Image -->
       <div class="container-fluid pizza-image">
-        <img
-          src="assets/images/pizza-stove.webp"
-          alt="Freshly cooked pizza being removed from a pizza oven"
-        />
+        <!-- <img src="assets/images/pizza-stove.webp" --! />
+        alt="Freshly cooked pizza being removed from a pizza oven" />
       </div>
       <!-- /hero image -->
     </article>
