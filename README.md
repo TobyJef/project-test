@@ -10,6 +10,12 @@ Wepik
 
 I used the templates on Wepik <https://wepik.com/> to create The Pizza Project logo and Menu.
 
+Font Awesome
+
+Social media icons used from Font Awesome <https://fontawesome.com>
+
+Bootstrap
+
 ## Credit
 
 Inspiration for The Pizza Project can be attributed to I Scream Tacos. <https://i-scream-tacos.co.uk/> A local mobile food truck near where I live in Bristol, UK. That can be hired to attend local or private events and serve their fresh daily made, traditional Mexican soft shell tacos.
