@@ -16,6 +16,10 @@ Social media icons used from Font Awesome <https://fontawesome.com>
 
 Bootstrap
 
+ChatGPT
+
+ChatGPT used only in relation for generating previous customer reviews.
+
 ## Credit
 
 Inspiration for The Pizza Project can be attributed to I Scream Tacos. <https://i-scream-tacos.co.uk/> A local mobile food truck near where I live in Bristol, UK. That can be hired to attend local or private events and serve their fresh daily made, traditional Mexican soft shell tacos.
