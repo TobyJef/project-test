@@ -18,7 +18,7 @@ Bootstrap
 
 ChatGPT
 
-ChatGPT used only in relation for generating previous customer reviews.
+ChatGPT used only in generating previous customer reviews.
 
 ## Credit
 
