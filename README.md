@@ -16,6 +16,10 @@ Social media icons used from Font Awesome <https://fontawesome.com>
 
 Bootstrap
 
+Startbootstrap.com
+
+I used the free Grayscale template to help display my sites content
+
 ChatGPT
 
 ChatGPT used only in generating previous customer reviews.
