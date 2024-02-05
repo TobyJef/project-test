@@ -1,6 +1,6 @@
 # The Pizza Project
 
-Welcome to The Pizza Project. Our aim is to provide the local and surrounding communities of Bristol with the most fresh and highest quality pizza imaginable outside of Italy or the pizza hotspots of the USA. We craft our pizza sauce and dough every morning, then load up our mobile pizza truck and head out on the open road where we will top and cook our pizzas to order on site, wether that is at your front door, wedding venue, high street or charity event. If we can drive there, we can cook there. The pizzas are then cooked in the wood fired pizza oven in the back of our pizza truck to ensure of that authentic pizza experience.
+Welcome to The Pizza Project. Our aim is to provide the local and surrounding communities of Bristol with the most fresh and highest quality pizza imaginable, outside of Italy or the pizza hotspots of the USA. We craft our pizza sauce and dough every morning, then load up our mobile pizza truck and head out on the open road where we top and cook our pizzas to order on site. Wether that is at your front door, wedding venue, high street or charity event. If we can drive there, we can cook there. Our pizzas are cooked in the wood fired pizza oven in the back of our pizza truck to ensure of that authentic pizza experience.
 
 ## Technologies
 
