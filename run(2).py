@@ -35,7 +35,7 @@ class GameBoard:
         print("  A B C D E F G H")
         print("  ---------------")
         row_number = 1
-        for row in board:
+        for row in self.board:
             print("%d|%s|" % (row_number, "|".join(row)))
             row_number += 1 
 
@@ -60,7 +60,7 @@ class Battleship:
                 x_row = input("Enter the row of the ship: ")
 
             y_column = input("Enter the column letter of the ship: ").upper()
-            while y_columnnot in "ABCDEFGH":
+            while y_column not in "ABCDEFGH":
                 print("Please enter a column between A-H")
                 y_column = input("Enter the column letter of the ship: ").upper()
             return int(x_row) - 1, GameBoard.get_letters_to_numbers()[y_column]
@@ -79,7 +79,7 @@ def count_hit_ships(self):
 
 
 def RunGame():
-    computer_board = Gameboard([[" "] * 8 for i in range(8)])
+    computer_board = GameBoard([[" "] * 8 for i in range(8)])
     user_guess_board = GameBoard([[" "] * 8 for i in range(8)])
     Battleship.create_ships(computer_board)
     #start 10 turns
